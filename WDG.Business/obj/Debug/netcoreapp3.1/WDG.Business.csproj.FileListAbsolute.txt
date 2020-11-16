@@ -1,0 +1,16 @@
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Business.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Business.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\bin\Debug\netcoreapp3.1\WDG.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Business\obj\Debug\netcoreapp3.1\WDG.Business.pdb

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<kurData>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_DevExtremeLayout.cshtml";
+}
+
+@(Html.DevExtreme().DataGrid()
+    .ID("gridContainer")
+    .ShowBorders(true)
+    .DataSource(Model)
+    .Columns(c => {
+        c.Add().DataField("DovizKodu").Caption("Döviz Kodu");
+        c.Add().DataField("Birim");
+        c.Add().DataField("DovizCinsi").Caption("Döviz Cinsi");
+        c.Add().DataField("DovizAlis").Caption("Döviz Alış");
+        c.Add().DataField("DovizSatis").Caption("Döviz Satış");
+        c.Add().DataField("EfektifAlis").Caption("Efektif Alış");
+        c.Add().DataField("EfektifSatis").Caption("Efektif Satış");
+
+    })
+)
+
+
+

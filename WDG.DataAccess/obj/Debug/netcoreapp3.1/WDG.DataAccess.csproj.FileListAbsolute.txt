@@ -1,0 +1,17 @@
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.DataAccess.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.DataAccess.runtimeconfig.json
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.DataAccess.runtimeconfig.dev.json
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\bin\Debug\netcoreapp3.1\WDG.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.DataAccess\obj\Debug\netcoreapp3.1\WDG.DataAccess.genruntimeconfig.cache

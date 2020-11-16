@@ -1,0 +1,9 @@
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\bin\Debug\netcoreapp3.1\WDG.Core.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\bin\Debug\netcoreapp3.1\WDG.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\bin\Debug\netcoreapp3.1\WDG.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\WDG\WDG.Core\obj\Debug\netcoreapp3.1\WDG.Core.csprojAssemblyReference.cache
